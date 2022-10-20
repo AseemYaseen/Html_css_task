@@ -1,0 +1,55 @@
+
+body {
+
+    background-color:beige
+}
+
+.Div1
+{
+    border: 1px solid black;
+    width: 820px;
+    height: 250px;
+    
+    background-color: rgb(254, 254, 254);
+}
+
+.span1{
+
+    font-weight: 700;
+    background-color: darksalmon;
+
+}
+
+.span2 {
+
+    font-weight: 700;
+background-color: gold;
+
+}
+
+.Div2{
+
+    border: 3px dashed black ;
+    background-color: white;
+    width: 800px;
+    height: 250px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.Div3 {
+    border: 2px dashed red;
+}
+
+
+.Div4 {
+
+border: 1px solid black;
+    width: 820px;
+    height: 250px;
+    
+    background-color: rgb(254, 254, 254);
+    color:mediumpurple;
+
+
+
+}
