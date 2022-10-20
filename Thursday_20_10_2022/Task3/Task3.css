@@ -1,0 +1,41 @@
+h3 {
+    text-decoration: underline;
+}
+.Span1 {
+    color: blue;
+}
+
+.Link1 {
+    color: orange;
+}
+.Link2 {
+    
+    background-color: yellow;
+}
+
+.Span2 {
+    font-weight: 800;
+}
+
+.Link3 {
+    font-weight: 900;
+    color: red;
+}
+.List1 {
+    font-weight: 900;
+    color: blue;
+}
+
+.Link4 {
+    color: red;
+}
+.List2{
+    color: blue;
+}
+#id {
+    color: blue;
+    font-weight: 900;
+}
+.Div1 {
+    list-style-type: none;
+}

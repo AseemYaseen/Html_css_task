@@ -1,0 +1,28 @@
+.Div1 {
+    border: 1px;
+    width: 800px;
+    color: orange;
+}
+
+.Span1 {
+    border: 1px;
+    width: 900px;
+    
+}
+
+.Span2 {
+
+    font-weight:700
+    
+}
+
+
+.Div2 {
+
+    border: 1px;
+    width: 900px;
+    height: 200px;
+    background-image:url("Photo1.webp");
+    background-size: 900px 200px;
+    color: beige;
+}
