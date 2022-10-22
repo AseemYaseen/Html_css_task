@@ -1,0 +1,49 @@
+.Div1{
+    width: 180px;
+    font-size: 60px;
+    background-color: green;
+    position: relative;
+    top: 70px;
+    left: 40px;
+
+
+}
+
+.Div2{
+    width: 180px;
+    font-size: 60px;
+    background-color: red;
+
+}
+
+.img1 {
+    position: relative;
+    bottom: 40px;
+}
+
+
+.img2 {
+    position: relative;
+    top: 100px;
+
+}
+
+
+.img3 {
+    position: relative;
+    bottom: 40px;
+    left: 100px;
+}
+
+
+.hh{
+
+    color: green;
+    position: sticky;
+    top: 0px;
+    bottom: 0px;
+
+
+}
+
+
