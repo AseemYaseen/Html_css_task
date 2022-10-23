@@ -37,10 +37,7 @@ pre {
     background-color: bisque;
 }
 
-body {
 
-    background-color: rgb(16, 8, 40);
-}
 
 .P{
     font-size: 100px;
@@ -58,6 +55,12 @@ p {
 } */
 
 
+.AA{
+    border: 2px solid rgb(red, green, blue);
+    text-transform: capitalize;
+    text-align: justify;
+
+}
 
 
 
