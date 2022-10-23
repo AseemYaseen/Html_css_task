@@ -17,7 +17,7 @@
    position: absolute;
    position: fixed;
    
-   right:10px;
+   right: 10px;
    z-index: 1;
    
    
@@ -31,7 +31,7 @@
     display: inline-block;
     position: relative;
     top: 84px;
-    left: 800px;
+    left: 900px;
     background-color: rgb(201, 207, 174);
     font-size: 30px;
 
