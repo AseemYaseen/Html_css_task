@@ -1,0 +1,72 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+.A {
+    display: grid;
+    grid-template-areas: 
+    "Head Head Head Head "
+    "Cont Cont Cont Side "
+    "Cont Cont Cont Side "
+    "Cont Cont Cont Side "
+    "Foot Foot Foot Foot ";
+    grid-auto-rows: minmax(500px,auto);
+    grid-gap: 5px 5px;
+
+}
+
+.A1 {
+    
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(158, 32, 32);
+  
+}
+
+
+.H1{ padding-left: 70%;
+    font-family: 'Amiri Quran', serif;
+    color: rgb(255, 208, 0);
+    
+    
+}
+.H2{
+    padding-left: 70%;
+    
+    font-family: 'Amiri Quran', serif;
+
+}
+
+.Color1 {
+    background-color: rgb(71, 136, 209);
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    
+}
+
+
+
+.Head {
+    grid-area: Head;
+}
+
+
+
+
+.Content {
+    grid-area:Cont;
+    
+}
+
+.Side {
+    grid-area: Side;
+}
+
+.Footer {
+    grid-area: Foot;
+}
+
+
