@@ -1,0 +1,103 @@
+
+body, html{
+   height: 100%;
+
+}
+.A {
+    background-color: antiquewhite;
+    display:flex;
+    height: 100%;
+    width: 100%;
+    
+  
+    text-align: center;
+    
+}
+
+.A1 {
+    background-color:green;
+    font-size: 35px;
+    color: white;
+    
+}
+
+
+
+.A2 {
+    background-color: yellow;
+    
+    font-size: 35px;
+    color: white;
+    
+}
+
+
+.A3 {
+    background-color:purple;
+    
+    font-size: 35px;
+    color: white;
+    
+}
+
+
+.A4 {
+    background-color: silver;
+    
+    font-size: 35px;
+    color: white;
+    
+}
+
+
+.A5 {
+    background-color: blue;
+    
+    font-size: 35px;
+    color: white;
+    
+}
+
+
+.A6 {
+    background-color: orange;
+    
+    font-size: 35px;
+    color: white;
+    
+}
+
+
+.A7 {
+    background-color: pink;
+    
+    font-size: 35px;
+    color: white;
+    
+}
+
+
+.A8 {
+    background-color: red;
+    
+    font-size: 35px;
+    color: white;
+    
+}
+
+
+.A9 {
+    background-color: brown;
+   
+    font-size: 35px;
+    color: white;
+    
+}
+
+
+.B{
+    width: 100%;
+}
+
+
+
