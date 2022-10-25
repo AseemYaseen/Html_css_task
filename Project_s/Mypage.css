@@ -1,4 +1,12 @@
+body, html{
+    margin: 0px;
+    padding: 0px;
 
+    background-image: linear-gradient(to top,black 10%, #0a9797 70%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
 
 .Div1 {
    display: grid;
@@ -7,7 +15,7 @@
 }
 
 .Logo {
-    font-size: 85px;
+    font-size: 60px;
     color:rgb(10, 151, 151);
     justify-content: first baseline;
     background-color: black;
@@ -17,10 +25,34 @@
 
 
 .Nav{
-    font-size: 30px;
+    font-size: 20px;
     justify-content:end;
-    background-color: rgb(10, 151, 151);
+    background-color: #0a9797;
     color: white;
+    display: flex;
+    justify-content: flex-end;
+    justify-content:space-evenly
 
 }
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
