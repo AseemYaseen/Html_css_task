@@ -1,0 +1,40 @@
+body, html{
+    height: 100%;
+    padding: 0px;
+    margin: 0px; }
+
+    .Div {
+
+        display: flex;
+        height: 100%;
+       
+    
+
+    }
+
+    .A1 {
+        background-color:orange;
+        width: 100%;
+       
+
+    }
+
+    .A2 {
+        background-color:blue;
+        width: 100%;
+    }
+
+
+    .B {
+        font-size: 40px;
+        color: white;
+        text-align: center;
+        padding: 300px;
+       
+       
+    }
+
+
+
+
+

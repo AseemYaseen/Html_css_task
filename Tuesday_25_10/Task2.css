@@ -1,0 +1,44 @@
+body {
+    background-color: blanchedalmond;
+    margin: 0;
+}
+
+.Div{
+
+    border :3px solid white;
+    border-radius: 30px; 
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 200px;
+    margin-right:200px;
+     
+  
+
+}
+
+
+
+.B {
+
+    font-weight: 800;
+    font-size: 25px;
+
+}
+
+.C {
+
+    font-size: 12px;
+    color: gray;
+}
+
+
+Img {
+    width: 120px;
+    height: 60px;
+    position: relative;
+   bottom: 90px;
+   
+
+}

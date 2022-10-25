@@ -1,6 +1,8 @@
 
 body, html{
    height: 100%;
+   padding: 0px;
+   margin: 0px;
 
 }
 .A {
@@ -14,10 +16,13 @@ body, html{
     
 }
 
+.Ab{
+    background-color: black;
+}
+
 .A1 {
     background-color:green;
-    font-size: 35px;
-    color: white;
+   
     
 }
 
@@ -25,9 +30,7 @@ body, html{
 
 .A2 {
     background-color: yellow;
-    
-    font-size: 35px;
-    color: white;
+   
     
 }
 
@@ -35,17 +38,14 @@ body, html{
 .A3 {
     background-color:purple;
     
-    font-size: 35px;
-    color: white;
-    
-}
+    }
 
 
 .A4 {
     background-color: silver;
     
-    font-size: 35px;
-    color: white;
+    
+    
     
 }
 
@@ -53,8 +53,8 @@ body, html{
 .A5 {
     background-color: blue;
     
-    font-size: 35px;
-    color: white;
+    
+    
     
 }
 
@@ -62,8 +62,8 @@ body, html{
 .A6 {
     background-color: orange;
     
-    font-size: 35px;
-    color: white;
+    
+    
     
 }
 
@@ -71,8 +71,8 @@ body, html{
 .A7 {
     background-color: pink;
     
-    font-size: 35px;
-    color: white;
+    
+    
     
 }
 
@@ -80,8 +80,8 @@ body, html{
 .A8 {
     background-color: red;
     
-    font-size: 35px;
-    color: white;
+    
+    
     
 }
 
@@ -89,14 +89,17 @@ body, html{
 .A9 {
     background-color: brown;
    
-    font-size: 35px;
-    color: white;
+    
+    
     
 }
 
 
 .B{
     width: 100%;
+     
+    font-size: 35px;
+    color: white;
 }
 
 
