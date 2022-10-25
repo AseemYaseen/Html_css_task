@@ -38,7 +38,14 @@ Img {
     width: 120px;
     height: 60px;
     position: relative;
-   bottom: 90px;
+   right: 150px;
+   bottom: 100px;
    
 
+}
+
+hr {
+    width: 25%;
+    height: 10px;
+    background-color: black;
 }

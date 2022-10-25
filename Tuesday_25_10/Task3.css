@@ -1,0 +1,78 @@
+
+
+
+.Div1 {
+    display: grid;
+    grid-template-columns: repeat(3,400px);
+    grid-gap: 9px;
+    
+   
+    
+}
+
+.A1 {
+    width: 400px;
+    height: 400px;
+    background-image: url(./Images/1.webp);
+    background-size: 400px 400px
+}
+
+.A2 {
+    
+        width: 400px;
+        height: 400px;
+        background-image: url(./Images/2.jpg);
+        background-size: 400px 400px
+
+}
+
+.A3 {
+    
+    
+        width: 400px;
+        height: 400px;
+        background-image: url(./Images/3.webp);
+        background-size: 400px 400px
+    
+}
+.A4 {
+    
+    width: 400px;
+    height: 400px;
+    background-image: url(./Images/4.jpg);
+    background-size: 400px 400px
+
+}
+
+.A5 {
+    
+    width: 400px;
+    height: 400px;
+    background-image: url(./Images/5.webp);
+    background-size: 400px 400px
+
+}
+.A6 {
+    
+    width: 400px;
+    height: 400px;
+    background-image: url(./Images/6.jpg);
+    background-size: 400px 400px
+
+}
+.A7 {
+    
+    width: 400px;
+    height: 400px;
+    background-image: url(./Images/7.jpg);
+    background-size: 400px 400px
+
+}
+.A8 {
+    
+    width: 400px;
+    height: 400px;
+    background-image: url(./Images/8.jpg);
+    background-size: 400px 400px
+
+}
