@@ -1,40 +1,86 @@
+body, html{
+    margin: 0px;
+    padding: 0px;
 
-body, html {
-    margin:0px;
-    padding:0px;
-    height: 100%;
-    background-image: linear-gradient(to top,black 10%, rgb(10,151,151)70%);
+    background-image: linear-gradient(to top,rgb(71, 71, 71) 5%, hwb(180 4% 41%) 70%);
     background-size: cover;
     background-repeat: no-repeat;
-    
-
+    height: 100%;
 }
+
+
 .Div1 {
-   display: grid;
-   grid-template-columns: repeat(2,1fr);
+   display: flex;
+    grid-template-columns: repeat(1,1fr);
    grid-template-rows:repeat(1,1fr);
+   margin: 10px;
+ 
 }
 
 .Logo {
-    font-size: 85px;
-    color:rgb(255, 255, 255);
+    font-size: 60px;
+    color:white;
     justify-content: first baseline;
     background-color: rgb(10, 151, 151);
-    padding-left: 20px;
-    padding-top: 15px;
+    padding-left: 12px;
+    padding-top: 20px;
     
     
 }
 
 
 .Nav{
-    display: flex;
-    justify-content: flex-end;
-    justify-content: space-between;
-    font-size: 30px;
-   
+    font-size: 20px;
     background-color: rgb(10, 151, 151);
     color: white;
+    padding: 15px;
+    padding-right: 300px;
 
 }
+
+
+h1 {
+    padding: 25px;
+    font-size: 50px;
+    color: antiquewhite;
+    
+}
+
+.P1{ 
+    color: blanchedalmond;
+    font-size: 35px;
+
+}
+
+.P2 {
+    color:antiquewhite;
+    font-size: 22px;
+}
+
+
+
+.img1 {
+    background-image: url(image1.jpg);
+    border: 10px black solid;
+    width: 100%;
+    height: 70%;
+    background-size: 100% 100%;
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
