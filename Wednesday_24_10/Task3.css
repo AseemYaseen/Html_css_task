@@ -1,0 +1,71 @@
+body, html {
+    margin: 0px 15%;
+}
+
+.div1 {
+    margin-top: 30px;
+    background-color: lightgray;
+    text-align: center;
+    padding-top: 20px;
+    height: 220px;
+    width: 100%;
+
+}
+
+.p1 {
+    font-size: 35px;
+}
+.p2 {
+    font-size: 22px;
+    
+}
+
+button {
+    width: 80%;
+    height: 40px;
+    color: white;
+    background-color: rgb(49, 49, 252);
+    border: 0px solid blue;
+    border-radius: 1%;
+    font-size: 18px;
+    
+}
+
+button:hover {
+    width: 80%;
+    height: 40px;
+    color: white;
+    background-color: rgb(87, 87, 190);
+    border: 0px solid rgb(72, 72, 172);
+    border-radius: 1%;
+    font-size: 18px;
+    cursor: pointer;
+}
+.p3 {
+    display: inline-block;
+    font-weight: 900;
+}
+
+.div2 { display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(2,1fr);
+    gap: 20px;
+
+}
+
+.img1 {
+
+
+    width: 100%;
+}
+
+.p5 {
+    border:1px lightgreen solid;
+    text-align: center;
+    background-color: rgb(125, 190, 26);
+    position: relative;
+    bottom: 450px;
+    
+    width: 100%;
+    
+}

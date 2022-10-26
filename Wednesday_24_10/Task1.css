@@ -1,0 +1,36 @@
+body, html {
+    height: 100%;
+}
+.A1 {
+    border: 2px blue solid;
+    background-color: pink;
+    width: 1000px;
+    height: 100px;
+    margin-left: 90px;
+    padding-left: 70px;
+    padding-top: 60px;
+    font-size: 40px;
+    
+}
+
+.A2 {
+    border: 2px brown solid;
+    background-color: steelblue;
+    width: 1300px;
+    height: 50px;
+    font-size: 40px;
+
+}
+
+.A3{
+    border: 2px brown solid;
+    background-color: peachpuff;
+    width: 500px;
+    height: 120px;
+    font-size: 40px;
+    margin-left: 800px;
+    padding-top: 80px;
+    padding-left: 50px;
+
+
+}
