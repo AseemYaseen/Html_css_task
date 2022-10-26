@@ -1,0 +1,206 @@
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgb(248, 238, 226);
+}
+
+.nav1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+  
+    background-color: rgb(248, 238, 226);
+
+}
+
+.logo {
+    font-size: 55px;
+    margin: 65px 0px 0px 60px;
+    color: white;
+   
+    
+}
+
+.fa-utensils{
+   border: 15px solid rgb(66, 65, 65);
+   background-color: rgb(66, 65, 65);
+   position: relative;
+   top: 20px;
+}
+
+.p1 {
+    font-family: 'Freehand', cursive;
+    position: relative;
+    left: 80px;
+    bottom: 120px;
+    color: rgb(66, 65, 65);
+    font-weight: 800;
+    padding-left: 10px;
+}
+
+.icons {
+    color: rgb(255, 255, 255);
+   
+    display: grid;
+    
+    grid-template-rows: repeat(1,auto);
+    grid-template-columns: repeat(6,1fr);
+    grid-column-gap: 12px;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 40px;
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+    right: 10px;
+    
+   
+}
+
+
+.icons>div{
+    background-color: rgb(63, 63, 63); 
+}
+
+
+
+.p2{
+    position: relative;
+    right: 30%;
+    bottom: 10px;
+    color: green;
+    font-size: 14px;
+
+}
+
+
+
+.border {
+
+    border: 15px double;
+    width: 100%;
+    color: darkgoldenrod;
+    position: relative;
+    bottom: 70px;
+    
+
+}
+
+
+img {
+    width: 100%;
+
+}
+
+
+.p3 {
+    font-weight: 900;
+    font-size: 46px;
+    font-family: 'Anton', sans-serif;
+}
+
+.p4 {
+    
+    font-size: 27px;
+    color: rgb(187, 138, 14);
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.p5 {
+    font-size: 28px;
+    font-weight: 600;
+    display: inline-block;
+    color: darkgoldenrod;
+}
+
+
+.pre2 {
+    font-size: 46px;
+    background-color: rgb(233, 186, 99);
+    
+    border: 1px solid rgb(233, 186, 99);
+}
+
+
+
+.check1 {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(6,auto);
+    background-color: darkgoldenrod;
+    font-size: 30px;
+    color: white;
+    font-family: 'Fuzzy Bubbles', cursive;
+
+
+}
+
+.border2 {
+
+    border: 15px double;
+    width: 100%;
+    color: darkgoldenrod;
+    position: relative;
+    top: 50px;
+   
+    
+
+}
+
+.inpu {
+    zoom: 1.8
+    
+}
+
+
+
+#im {
+    background-image: url(asem.jpg);
+    width: 200px;
+    height: 200px;
+    background-size: 200px 200px;
+    border: 1px solid darkgoldenrod;
+    border-radius: 60%;
+}
+
+
+
+h3 {
+
+    font-size: 32px;
+    font-weight: 800;
+    display: inline-block;
+    color: darkgoldenrod;position: relative;
+    right: 250px;
+
+}
+
+.p6 {
+    font-size: 25px;
+
+}
+
+.button1 {
+    background-color: white; 
+    color: darkblue; 
+    border: 2px solid #caa80e;
+    position: relative;
+    left: 800px;
+    font-size: 35px;
+    transition-duration: 0.4s;
+  cursor: pointer;
+  }
+  
+  .button1:hover {
+    background-color: #166607;
+    color: white;
+
+  }
+
+
+
+  
+
