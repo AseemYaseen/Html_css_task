@@ -201,6 +201,27 @@ h3 {
   }
 
 
+  
+  
+
+  .p4{
+    font-size: 16px;
+    color: rgb(77, 118, 77);
+    position: relative;
+    text-align: center;
+
+  }
+  
+
+  .logo2 {
+    color:white;
+    position: relative;
+    left: 440px;
+    bottom: 120px;
+    border: 10px solid rgb(125, 125, 125);
+    background-color: rgb(125, 125, 125);
+    }
+
 
   
 
